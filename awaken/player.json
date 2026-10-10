@@ -2,7 +2,7 @@
   "login": "TuanAnh2901",
   "level": 8,
   "overall": "S",
-  "overallPercentile": 0.9474273219206762,
+  "overallPercentile": 0.9474840994833376,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 134,
+      "value": 135,
       "rank": "C",
-      "percentile": 0.7410177926692763
+      "percentile": 0.7425522426943191
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 134
+      "value": 135
     },
     {
       "id": "unbroken",
@@ -83,12 +83,12 @@
     {
       "id": "early-bird",
       "tier": 1,
-      "value": 18
+      "value": 17
     },
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 43
+      "value": 44
     },
     {
       "id": "gate-opener",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 75
+      "value": 76
     },
     {
       "id": "daily-grinder",
@@ -200,5 +200,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-10-09T21:36:52.103Z"
+  "syncedAt": "2026-10-10T12:16:07.895Z"
 }
