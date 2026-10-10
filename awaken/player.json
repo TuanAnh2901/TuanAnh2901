@@ -2,7 +2,7 @@
   "login": "TuanAnh2901",
   "level": 8,
   "overall": "S",
-  "overallPercentile": 0.9474840994833376,
+  "overallPercentile": 0.9477998807322109,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -43,9 +43,9 @@
     },
     {
       "code": "CHA",
-      "value": 11,
+      "value": 12,
       "rank": "A",
-      "percentile": 0.9038366005469605
+      "percentile": 0.9125355569592811
     }
   ],
   "events": [],
@@ -123,7 +123,7 @@
     {
       "id": "beacon",
       "tier": 1,
-      "value": 11
+      "value": 12
     },
     {
       "id": "guild-hopper",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "boss-slayer",
@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-10",
+        "cleared": 1,
+        "total": 3
+      },
+      {
         "date": "2026-10-09",
         "cleared": 2,
         "total": 3
@@ -192,7 +197,7 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 2,
+    "questsDone": 3,
     "bosses": [],
     "escapes": 1,
     "kinds": [
@@ -200,5 +205,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-10-10T12:16:07.895Z"
+  "syncedAt": "2026-10-10T19:12:14.327Z"
 }
