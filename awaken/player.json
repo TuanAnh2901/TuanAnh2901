@@ -2,7 +2,7 @@
   "login": "TuanAnh2901",
   "level": 8,
   "overall": "S",
-  "overallPercentile": 0.9477998807322109,
+  "overallPercentile": 0.9469417979763274,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 10,
+      "value": 9,
       "rank": "A",
-      "percentile": 0.9348315269247548
+      "percentile": 0.9145434310833055
     },
     {
       "code": "LUK",
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 19
+      "value": 18
     },
     {
       "id": "raider",
@@ -211,5 +211,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-11T21:43:55.867Z"
+  "syncedAt": "2026-10-12T05:30:16.222Z"
 }
