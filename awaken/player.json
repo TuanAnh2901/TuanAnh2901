@@ -2,7 +2,7 @@
   "login": "TuanAnh2901",
   "level": 8,
   "overall": "S",
-  "overallPercentile": 0.9469417979763274,
+  "overallPercentile": 0.948132129516877,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 135,
-      "rank": "C",
-      "percentile": 0.7425522426943191
+      "value": 141,
+      "rank": "B",
+      "percentile": 0.7514358869330818
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 9,
+      "value": 10,
       "rank": "A",
-      "percentile": 0.9145434310833055
+      "percentile": 0.9348315269247548
     },
     {
       "code": "LUK",
@@ -48,7 +48,15 @@
       "percentile": 0.9125355569592811
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "C",
+      "to": "B",
+      "at": "2026-10-14T04:28:53.419Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -68,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 135
+      "value": 141
     },
     {
       "id": "unbroken",
@@ -78,22 +86,22 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 12
+      "value": 10
     },
     {
       "id": "early-bird",
       "tier": 1,
-      "value": 17
+      "value": 16
     },
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 41
+      "value": 40
     },
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 18
+      "value": 19
     },
     {
       "id": "raider",
@@ -113,7 +121,7 @@
     {
       "id": "polyglot",
       "tier": 3,
-      "value": 8
+      "value": 10
     },
     {
       "id": "star-collector",
@@ -143,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 74
+      "value": 75
     },
     {
       "id": "daily-grinder",
@@ -221,5 +229,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-13T22:31:19.147Z"
+  "syncedAt": "2026-10-14T04:28:53.419Z"
 }
