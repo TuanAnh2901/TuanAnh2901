@@ -2,7 +2,7 @@
   "login": "TuanAnh2901",
   "level": 8,
   "overall": "S",
-  "overallPercentile": 0.9484289668568364,
+  "overallPercentile": 0.9472386353162868,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 141,
-      "rank": "B",
-      "percentile": 0.7514358869330818
+      "value": 135,
+      "rank": "C",
+      "percentile": 0.7425522426943191
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 10,
+      "value": 9,
       "rank": "A",
-      "percentile": 0.9348315269247548
+      "percentile": 0.9145434310833055
     },
     {
       "code": "LUK",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "B",
+      "to": "C",
+      "at": "2026-10-17T15:21:20.697Z"
+    },
     {
       "kind": "stat",
       "subject": "STR",
@@ -76,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 141
+      "value": 135
     },
     {
       "id": "unbroken",
@@ -86,12 +93,12 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 10
+      "value": 12
     },
     {
       "id": "early-bird",
       "tier": 1,
-      "value": 16
+      "value": 17
     },
     {
       "id": "weekend-warrior",
@@ -101,7 +108,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 19
+      "value": 18
     },
     {
       "id": "raider",
@@ -121,7 +128,7 @@
     {
       "id": "polyglot",
       "tier": 3,
-      "value": 10
+      "value": 8
     },
     {
       "id": "star-collector",
@@ -244,5 +251,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-17T10:27:36.672Z"
+  "syncedAt": "2026-10-17T15:21:20.697Z"
 }
