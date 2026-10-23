@@ -117,7 +117,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 40
+      "value": 39
     },
     {
       "id": "gate-opener",
@@ -172,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 75
+      "value": 76
     },
     {
       "id": "daily-grinder",
@@ -187,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 12
+      "value": 13
     },
     {
       "id": "boss-slayer",
@@ -197,7 +197,7 @@
     {
       "id": "escape-artist",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "collector",
@@ -207,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-23",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-22",
         "cleared": 1,
@@ -286,9 +291,9 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 12,
+    "questsDone": 13,
     "bosses": [],
-    "escapes": 3,
+    "escapes": 4,
     "kinds": [
       "contribute",
       "star",
@@ -297,5 +302,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-23T16:51:29.902Z"
+  "syncedAt": "2026-10-23T21:16:16.871Z"
 }
