@@ -117,7 +117,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 40
+      "value": 39
     },
     {
       "id": "gate-opener",
@@ -172,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 77
+      "value": 76
     },
     {
       "id": "daily-grinder",
@@ -309,5 +309,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-24T23:02:27.515Z"
+  "syncedAt": "2026-10-25T04:13:19.404Z"
 }
