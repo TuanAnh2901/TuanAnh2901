@@ -2,7 +2,7 @@
   "login": "TuanAnh2901",
   "level": 8,
   "overall": "S",
-  "overallPercentile": 0.9477318468123656,
+  "overallPercentile": 0.947435009472406,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -43,9 +43,9 @@
     },
     {
       "code": "CHA",
-      "value": 13,
+      "value": 12,
       "rank": "A",
-      "percentile": 0.9201640776186215
+      "percentile": 0.9125355569592811
     }
   ],
   "events": [
@@ -152,7 +152,7 @@
     {
       "id": "beacon",
       "tier": 1,
-      "value": 13
+      "value": 12
     },
     {
       "id": "guild-hopper",
@@ -314,5 +314,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-26T04:17:17.350Z"
+  "syncedAt": "2026-10-26T12:40:21.923Z"
 }
