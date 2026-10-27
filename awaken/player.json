@@ -55,20 +55,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-24T20:33:07.912Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "escape-artist",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-20T19:06:26.041Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-20T19:06:26.041Z"
     }
   ],
   "achievements": [
@@ -201,6 +187,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-27",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-26",
         "cleared": 1,
         "total": 3
@@ -312,5 +303,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-27T15:15:38.195Z"
+  "syncedAt": "2026-10-27T22:01:53.140Z"
 }
