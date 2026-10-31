@@ -48,15 +48,7 @@
       "percentile": 0.9125355569592811
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "boss-slayer",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-24T20:33:07.912Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -323,5 +315,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-31T17:07:35.466Z"
+  "syncedAt": "2026-10-31T21:18:06.440Z"
 }
