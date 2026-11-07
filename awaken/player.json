@@ -151,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 77
+      "value": 78
     },
     {
       "id": "daily-grinder",
@@ -355,5 +355,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-06T20:47:17.718Z"
+  "syncedAt": "2026-11-07T00:48:11.574Z"
 }
