@@ -2,7 +2,7 @@
   "login": "TuanAnh2901",
   "level": 8,
   "overall": "S",
-  "overallPercentile": 0.947435009472406,
+  "overallPercentile": 0.9464887127177581,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 9,
+      "value": 8,
       "rank": "A",
-      "percentile": 0.9145434310833055
+      "percentile": 0.8870569955105061
     },
     {
       "code": "LUK",
@@ -366,5 +366,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-08T19:27:14.348Z"
+  "syncedAt": "2026-11-09T00:41:10.124Z"
 }
