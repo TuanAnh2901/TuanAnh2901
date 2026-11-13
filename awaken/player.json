@@ -48,15 +48,7 @@
       "percentile": 0.9125355569592811
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-06T20:47:17.718Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -391,5 +383,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-13T17:04:17.976Z"
+  "syncedAt": "2026-11-13T23:26:35.299Z"
 }
