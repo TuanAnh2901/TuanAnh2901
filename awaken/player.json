@@ -2,7 +2,7 @@
   "login": "TuanAnh2901",
   "level": 8,
   "overall": "S",
-  "overallPercentile": 0.9464887127177581,
+  "overallPercentile": 0.9467897405235634,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -25,9 +25,9 @@
     },
     {
       "code": "INT",
-      "value": 6,
-      "rank": "B",
-      "percentile": 0.8696075966171363
+      "value": 7,
+      "rank": "A",
+      "percentile": 0.8799785572023763
     },
     {
       "code": "VIT",
@@ -48,7 +48,15 @@
       "percentile": 0.9125355569592811
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "stat",
+      "subject": "INT",
+      "from": "B",
+      "to": "A",
+      "at": "2026-11-23T23:46:36.780Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -178,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-23",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-22",
         "cleared": 0,
@@ -428,5 +441,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-23T12:06:26.013Z"
+  "syncedAt": "2026-11-23T23:46:36.780Z"
 }
